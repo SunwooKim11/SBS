@@ -19,6 +19,8 @@
     ```bash
     jupyter notebook SBS.ipynb
     ```
+4. 아래 코랩에서 실행 가능합니다.
+- https://colab.research.google.com/drive/1m5WcuIlfqqqpjLyZ5JKirYkVRRXR4MYS?usp=sharing
 
 ## 데이터 설명
 
